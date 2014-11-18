@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.0.0" uuid="emotions">
+ <names>
+  <name lang="en_US">Emotions</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Emotions package for the therapy</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Emotion Therapy">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="WellDone">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Finished">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
