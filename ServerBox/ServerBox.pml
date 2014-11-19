@@ -7,6 +7,7 @@
     <Dialogs />
     <Resources>
         <File name="yahou4" src="ServerBox/yahou4.wav" />
+        <File name="JSON" src="doc/JSON.md" />
     </Resources>
     <Topics />
     <IgnoredPaths />
